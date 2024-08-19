@@ -3,4 +3,4 @@ ccc
 bbb
 
 Kohei OTA2
-これは「ota」ブランチで編集
+これは「ota」ブランチで編集した
