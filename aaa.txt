@@ -4,3 +4,5 @@ bbb
 
 Kohei OTA3
 これは「ota」ブランチで編集した
+
+Ubuntuで入力
